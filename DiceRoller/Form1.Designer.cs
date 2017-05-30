@@ -108,58 +108,65 @@
             // tbD4Modifer
             // 
             this.tbD4Modifer.Location = new System.Drawing.Point(77, 25);
-            this.tbD4Modifer.MaxLength = 3;
+            this.tbD4Modifer.MaxLength = 2;
             this.tbD4Modifer.Name = "tbD4Modifer";
-            this.tbD4Modifer.Size = new System.Drawing.Size(50, 20);
+            this.tbD4Modifer.Size = new System.Drawing.Size(34, 20);
             this.tbD4Modifer.TabIndex = 4;
+            this.tbD4Modifer.Text = "1";
             // 
             // tbD6Modifer
             // 
             this.tbD6Modifer.Location = new System.Drawing.Point(77, 51);
-            this.tbD6Modifer.MaxLength = 3;
+            this.tbD6Modifer.MaxLength = 2;
             this.tbD6Modifer.Name = "tbD6Modifer";
-            this.tbD6Modifer.Size = new System.Drawing.Size(50, 20);
+            this.tbD6Modifer.Size = new System.Drawing.Size(34, 20);
             this.tbD6Modifer.TabIndex = 5;
+            this.tbD6Modifer.Text = "1";
             // 
             // tbD8Modifer
             // 
             this.tbD8Modifer.Location = new System.Drawing.Point(77, 77);
-            this.tbD8Modifer.MaxLength = 3;
+            this.tbD8Modifer.MaxLength = 2;
             this.tbD8Modifer.Name = "tbD8Modifer";
-            this.tbD8Modifer.Size = new System.Drawing.Size(50, 20);
+            this.tbD8Modifer.Size = new System.Drawing.Size(34, 20);
             this.tbD8Modifer.TabIndex = 6;
+            this.tbD8Modifer.Text = "1";
             // 
             // tbD10Modifer
             // 
             this.tbD10Modifer.Location = new System.Drawing.Point(77, 103);
-            this.tbD10Modifer.MaxLength = 3;
+            this.tbD10Modifer.MaxLength = 2;
             this.tbD10Modifer.Name = "tbD10Modifer";
-            this.tbD10Modifer.Size = new System.Drawing.Size(50, 20);
+            this.tbD10Modifer.Size = new System.Drawing.Size(34, 20);
             this.tbD10Modifer.TabIndex = 7;
+            this.tbD10Modifer.Text = "1";
             // 
             // tbD12Modifer
             // 
             this.tbD12Modifer.Location = new System.Drawing.Point(77, 129);
-            this.tbD12Modifer.MaxLength = 3;
+            this.tbD12Modifer.MaxLength = 2;
             this.tbD12Modifer.Name = "tbD12Modifer";
-            this.tbD12Modifer.Size = new System.Drawing.Size(50, 20);
+            this.tbD12Modifer.Size = new System.Drawing.Size(34, 20);
             this.tbD12Modifer.TabIndex = 8;
+            this.tbD12Modifer.Text = "1";
             // 
             // tbD20Modifer
             // 
             this.tbD20Modifer.Location = new System.Drawing.Point(77, 155);
-            this.tbD20Modifer.MaxLength = 3;
+            this.tbD20Modifer.MaxLength = 2;
             this.tbD20Modifer.Name = "tbD20Modifer";
-            this.tbD20Modifer.Size = new System.Drawing.Size(50, 20);
+            this.tbD20Modifer.Size = new System.Drawing.Size(34, 20);
             this.tbD20Modifer.TabIndex = 9;
+            this.tbD20Modifer.Text = "1";
             // 
             // tbD100Modifer
             // 
             this.tbD100Modifer.Location = new System.Drawing.Point(77, 181);
-            this.tbD100Modifer.MaxLength = 3;
+            this.tbD100Modifer.MaxLength = 2;
             this.tbD100Modifer.Name = "tbD100Modifer";
-            this.tbD100Modifer.Size = new System.Drawing.Size(50, 20);
+            this.tbD100Modifer.Size = new System.Drawing.Size(34, 20);
             this.tbD100Modifer.TabIndex = 10;
+            this.tbD100Modifer.Text = "1";
             // 
             // label5
             // 
@@ -223,6 +230,7 @@
             this.btnRollD4.TabIndex = 17;
             this.btnRollD4.Text = "Roll";
             this.btnRollD4.UseVisualStyleBackColor = true;
+            this.btnRollD4.Click += new System.EventHandler(this.btnRollD4_Click);
             // 
             // btnRollD6
             // 
@@ -232,6 +240,7 @@
             this.btnRollD6.TabIndex = 17;
             this.btnRollD6.Text = "Roll";
             this.btnRollD6.UseVisualStyleBackColor = true;
+            this.btnRollD6.Click += new System.EventHandler(this.btnRollD6_Click);
             // 
             // btnRollD8
             // 
@@ -241,6 +250,7 @@
             this.btnRollD8.TabIndex = 17;
             this.btnRollD8.Text = "Roll";
             this.btnRollD8.UseVisualStyleBackColor = true;
+            this.btnRollD8.Click += new System.EventHandler(this.btnRollD8_Click);
             // 
             // btnRollD10
             // 
@@ -250,6 +260,7 @@
             this.btnRollD10.TabIndex = 17;
             this.btnRollD10.Text = "Roll";
             this.btnRollD10.UseVisualStyleBackColor = true;
+            this.btnRollD10.Click += new System.EventHandler(this.btnRollD10_Click);
             // 
             // btnRollD12
             // 
@@ -259,6 +270,7 @@
             this.btnRollD12.TabIndex = 17;
             this.btnRollD12.Text = "Roll";
             this.btnRollD12.UseVisualStyleBackColor = true;
+            this.btnRollD12.Click += new System.EventHandler(this.btnRollD12_Click);
             // 
             // btnRollD20
             // 
@@ -268,6 +280,7 @@
             this.btnRollD20.TabIndex = 17;
             this.btnRollD20.Text = "Roll";
             this.btnRollD20.UseVisualStyleBackColor = true;
+            this.btnRollD20.Click += new System.EventHandler(this.btnRollD20_Click);
             // 
             // btnRollD100
             // 
@@ -277,6 +290,7 @@
             this.btnRollD100.TabIndex = 17;
             this.btnRollD100.Text = "Roll";
             this.btnRollD100.UseVisualStyleBackColor = true;
+            this.btnRollD100.Click += new System.EventHandler(this.btnRollD100_Click);
             // 
             // lblRollsD4
             // 
@@ -459,6 +473,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

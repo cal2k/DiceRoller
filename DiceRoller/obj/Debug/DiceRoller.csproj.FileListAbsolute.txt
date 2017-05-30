@@ -1,1 +1,9 @@
 C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csprojResolveAssemblyReference.cache
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Form1.resources
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Properties.Resources.resources
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.GenerateResource.Cache
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\cal\Documents\Projects\Visual Studio\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
