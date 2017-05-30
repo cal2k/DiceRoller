@@ -107,7 +107,7 @@
             // 
             // tbD4Modifer
             // 
-            this.tbD4Modifer.Location = new System.Drawing.Point(77, 25);
+            this.tbD4Modifer.Location = new System.Drawing.Point(86, 25);
             this.tbD4Modifer.MaxLength = 2;
             this.tbD4Modifer.Name = "tbD4Modifer";
             this.tbD4Modifer.Size = new System.Drawing.Size(34, 20);
@@ -116,7 +116,7 @@
             // 
             // tbD6Modifer
             // 
-            this.tbD6Modifer.Location = new System.Drawing.Point(77, 51);
+            this.tbD6Modifer.Location = new System.Drawing.Point(86, 51);
             this.tbD6Modifer.MaxLength = 2;
             this.tbD6Modifer.Name = "tbD6Modifer";
             this.tbD6Modifer.Size = new System.Drawing.Size(34, 20);
@@ -125,7 +125,7 @@
             // 
             // tbD8Modifer
             // 
-            this.tbD8Modifer.Location = new System.Drawing.Point(77, 77);
+            this.tbD8Modifer.Location = new System.Drawing.Point(86, 77);
             this.tbD8Modifer.MaxLength = 2;
             this.tbD8Modifer.Name = "tbD8Modifer";
             this.tbD8Modifer.Size = new System.Drawing.Size(34, 20);
@@ -134,7 +134,7 @@
             // 
             // tbD10Modifer
             // 
-            this.tbD10Modifer.Location = new System.Drawing.Point(77, 103);
+            this.tbD10Modifer.Location = new System.Drawing.Point(86, 103);
             this.tbD10Modifer.MaxLength = 2;
             this.tbD10Modifer.Name = "tbD10Modifer";
             this.tbD10Modifer.Size = new System.Drawing.Size(34, 20);
@@ -143,7 +143,7 @@
             // 
             // tbD12Modifer
             // 
-            this.tbD12Modifer.Location = new System.Drawing.Point(77, 129);
+            this.tbD12Modifer.Location = new System.Drawing.Point(86, 129);
             this.tbD12Modifer.MaxLength = 2;
             this.tbD12Modifer.Name = "tbD12Modifer";
             this.tbD12Modifer.Size = new System.Drawing.Size(34, 20);
@@ -152,7 +152,7 @@
             // 
             // tbD20Modifer
             // 
-            this.tbD20Modifer.Location = new System.Drawing.Point(77, 155);
+            this.tbD20Modifer.Location = new System.Drawing.Point(86, 155);
             this.tbD20Modifer.MaxLength = 2;
             this.tbD20Modifer.Name = "tbD20Modifer";
             this.tbD20Modifer.Size = new System.Drawing.Size(34, 20);
@@ -161,7 +161,7 @@
             // 
             // tbD100Modifer
             // 
-            this.tbD100Modifer.Location = new System.Drawing.Point(77, 181);
+            this.tbD100Modifer.Location = new System.Drawing.Point(86, 181);
             this.tbD100Modifer.MaxLength = 2;
             this.tbD100Modifer.Name = "tbD100Modifer";
             this.tbD100Modifer.Size = new System.Drawing.Size(34, 20);
@@ -358,7 +358,7 @@
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(344, 9);
+            this.label18.Location = new System.Drawing.Point(355, 9);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(31, 13);
             this.label18.TabIndex = 2;
@@ -367,7 +367,7 @@
             // lblTotalsD4
             // 
             this.lblTotalsD4.AutoSize = true;
-            this.lblTotalsD4.Location = new System.Drawing.Point(351, 28);
+            this.lblTotalsD4.Location = new System.Drawing.Point(364, 28);
             this.lblTotalsD4.Name = "lblTotalsD4";
             this.lblTotalsD4.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD4.TabIndex = 3;
@@ -376,7 +376,7 @@
             // lblTotalsD6
             // 
             this.lblTotalsD6.AutoSize = true;
-            this.lblTotalsD6.Location = new System.Drawing.Point(351, 54);
+            this.lblTotalsD6.Location = new System.Drawing.Point(364, 54);
             this.lblTotalsD6.Name = "lblTotalsD6";
             this.lblTotalsD6.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD6.TabIndex = 11;
@@ -385,7 +385,7 @@
             // lblTotalsD8
             // 
             this.lblTotalsD8.AutoSize = true;
-            this.lblTotalsD8.Location = new System.Drawing.Point(351, 80);
+            this.lblTotalsD8.Location = new System.Drawing.Point(364, 80);
             this.lblTotalsD8.Name = "lblTotalsD8";
             this.lblTotalsD8.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD8.TabIndex = 12;
@@ -394,7 +394,7 @@
             // lblTotalsD10
             // 
             this.lblTotalsD10.AutoSize = true;
-            this.lblTotalsD10.Location = new System.Drawing.Point(351, 106);
+            this.lblTotalsD10.Location = new System.Drawing.Point(364, 106);
             this.lblTotalsD10.Name = "lblTotalsD10";
             this.lblTotalsD10.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD10.TabIndex = 13;
@@ -403,7 +403,7 @@
             // lblTotalsD12
             // 
             this.lblTotalsD12.AutoSize = true;
-            this.lblTotalsD12.Location = new System.Drawing.Point(351, 132);
+            this.lblTotalsD12.Location = new System.Drawing.Point(364, 132);
             this.lblTotalsD12.Name = "lblTotalsD12";
             this.lblTotalsD12.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD12.TabIndex = 14;
@@ -412,7 +412,7 @@
             // lblTotalsD20
             // 
             this.lblTotalsD20.AutoSize = true;
-            this.lblTotalsD20.Location = new System.Drawing.Point(351, 158);
+            this.lblTotalsD20.Location = new System.Drawing.Point(364, 158);
             this.lblTotalsD20.Name = "lblTotalsD20";
             this.lblTotalsD20.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD20.TabIndex = 15;
@@ -421,7 +421,7 @@
             // lblTotalsD100
             // 
             this.lblTotalsD100.AutoSize = true;
-            this.lblTotalsD100.Location = new System.Drawing.Point(351, 184);
+            this.lblTotalsD100.Location = new System.Drawing.Point(364, 184);
             this.lblTotalsD100.Name = "lblTotalsD100";
             this.lblTotalsD100.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD100.TabIndex = 16;
