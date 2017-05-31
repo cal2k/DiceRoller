@@ -101,5 +101,16 @@ namespace DiceRoller
         {
             MessageBox.Show("Invalid Modifier");
         }
+
+        private void btnRest_Click(object sender, EventArgs e)
+        {
+            tbD4Modifer.Text = "1";
+            tbD6Modifer.Text = "1";
+            tbD8Modifer.Text = "1";
+            tbD10Modifer.Text = "1";
+            tbD12Modifer.Text = "1";
+            tbD20Modifer.Text = "1";
+            tbD100Modifer.Text = "1";
+        }
     }
 }

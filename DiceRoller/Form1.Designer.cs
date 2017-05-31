@@ -67,6 +67,7 @@
             this.lblTotalsD12 = new System.Windows.Forms.Label();
             this.lblTotalsD20 = new System.Windows.Forms.Label();
             this.lblTotalsD100 = new System.Windows.Forms.Label();
+            this.btnRest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -108,63 +109,63 @@
             // tbD4Modifer
             // 
             this.tbD4Modifer.Location = new System.Drawing.Point(86, 25);
-            this.tbD4Modifer.MaxLength = 2;
+            this.tbD4Modifer.MaxLength = 1;
             this.tbD4Modifer.Name = "tbD4Modifer";
-            this.tbD4Modifer.Size = new System.Drawing.Size(34, 20);
+            this.tbD4Modifer.Size = new System.Drawing.Size(18, 20);
             this.tbD4Modifer.TabIndex = 4;
             this.tbD4Modifer.Text = "1";
             // 
             // tbD6Modifer
             // 
             this.tbD6Modifer.Location = new System.Drawing.Point(86, 51);
-            this.tbD6Modifer.MaxLength = 2;
+            this.tbD6Modifer.MaxLength = 1;
             this.tbD6Modifer.Name = "tbD6Modifer";
-            this.tbD6Modifer.Size = new System.Drawing.Size(34, 20);
+            this.tbD6Modifer.Size = new System.Drawing.Size(18, 20);
             this.tbD6Modifer.TabIndex = 5;
             this.tbD6Modifer.Text = "1";
             // 
             // tbD8Modifer
             // 
             this.tbD8Modifer.Location = new System.Drawing.Point(86, 77);
-            this.tbD8Modifer.MaxLength = 2;
+            this.tbD8Modifer.MaxLength = 1;
             this.tbD8Modifer.Name = "tbD8Modifer";
-            this.tbD8Modifer.Size = new System.Drawing.Size(34, 20);
+            this.tbD8Modifer.Size = new System.Drawing.Size(18, 20);
             this.tbD8Modifer.TabIndex = 6;
             this.tbD8Modifer.Text = "1";
             // 
             // tbD10Modifer
             // 
             this.tbD10Modifer.Location = new System.Drawing.Point(86, 103);
-            this.tbD10Modifer.MaxLength = 2;
+            this.tbD10Modifer.MaxLength = 1;
             this.tbD10Modifer.Name = "tbD10Modifer";
-            this.tbD10Modifer.Size = new System.Drawing.Size(34, 20);
+            this.tbD10Modifer.Size = new System.Drawing.Size(18, 20);
             this.tbD10Modifer.TabIndex = 7;
             this.tbD10Modifer.Text = "1";
             // 
             // tbD12Modifer
             // 
             this.tbD12Modifer.Location = new System.Drawing.Point(86, 129);
-            this.tbD12Modifer.MaxLength = 2;
+            this.tbD12Modifer.MaxLength = 1;
             this.tbD12Modifer.Name = "tbD12Modifer";
-            this.tbD12Modifer.Size = new System.Drawing.Size(34, 20);
+            this.tbD12Modifer.Size = new System.Drawing.Size(18, 20);
             this.tbD12Modifer.TabIndex = 8;
             this.tbD12Modifer.Text = "1";
             // 
             // tbD20Modifer
             // 
             this.tbD20Modifer.Location = new System.Drawing.Point(86, 155);
-            this.tbD20Modifer.MaxLength = 2;
+            this.tbD20Modifer.MaxLength = 1;
             this.tbD20Modifer.Name = "tbD20Modifer";
-            this.tbD20Modifer.Size = new System.Drawing.Size(34, 20);
+            this.tbD20Modifer.Size = new System.Drawing.Size(18, 20);
             this.tbD20Modifer.TabIndex = 9;
             this.tbD20Modifer.Text = "1";
             // 
             // tbD100Modifer
             // 
             this.tbD100Modifer.Location = new System.Drawing.Point(86, 181);
-            this.tbD100Modifer.MaxLength = 2;
+            this.tbD100Modifer.MaxLength = 1;
             this.tbD100Modifer.Name = "tbD100Modifer";
-            this.tbD100Modifer.Size = new System.Drawing.Size(34, 20);
+            this.tbD100Modifer.Size = new System.Drawing.Size(18, 20);
             this.tbD100Modifer.TabIndex = 10;
             this.tbD100Modifer.Text = "1";
             // 
@@ -297,68 +298,68 @@
             this.lblRollsD4.AutoSize = true;
             this.lblRollsD4.Location = new System.Drawing.Point(221, 28);
             this.lblRollsD4.Name = "lblRollsD4";
-            this.lblRollsD4.Size = new System.Drawing.Size(13, 13);
+            this.lblRollsD4.Size = new System.Drawing.Size(40, 13);
             this.lblRollsD4.TabIndex = 3;
-            this.lblRollsD4.Text = "0";
+            this.lblRollsD4.Text = "Rolled:";
             // 
             // lblRollsD6
             // 
             this.lblRollsD6.AutoSize = true;
             this.lblRollsD6.Location = new System.Drawing.Point(221, 54);
             this.lblRollsD6.Name = "lblRollsD6";
-            this.lblRollsD6.Size = new System.Drawing.Size(13, 13);
+            this.lblRollsD6.Size = new System.Drawing.Size(40, 13);
             this.lblRollsD6.TabIndex = 11;
-            this.lblRollsD6.Text = "0";
+            this.lblRollsD6.Text = "Rolled:";
             // 
             // lblRollsD8
             // 
             this.lblRollsD8.AutoSize = true;
             this.lblRollsD8.Location = new System.Drawing.Point(221, 80);
             this.lblRollsD8.Name = "lblRollsD8";
-            this.lblRollsD8.Size = new System.Drawing.Size(13, 13);
+            this.lblRollsD8.Size = new System.Drawing.Size(40, 13);
             this.lblRollsD8.TabIndex = 12;
-            this.lblRollsD8.Text = "0";
+            this.lblRollsD8.Text = "Rolled:";
             // 
             // lblRollsD10
             // 
             this.lblRollsD10.AutoSize = true;
             this.lblRollsD10.Location = new System.Drawing.Point(221, 106);
             this.lblRollsD10.Name = "lblRollsD10";
-            this.lblRollsD10.Size = new System.Drawing.Size(13, 13);
+            this.lblRollsD10.Size = new System.Drawing.Size(40, 13);
             this.lblRollsD10.TabIndex = 13;
-            this.lblRollsD10.Text = "0";
+            this.lblRollsD10.Text = "Rolled:";
             // 
             // lblRollsD12
             // 
             this.lblRollsD12.AutoSize = true;
             this.lblRollsD12.Location = new System.Drawing.Point(221, 132);
             this.lblRollsD12.Name = "lblRollsD12";
-            this.lblRollsD12.Size = new System.Drawing.Size(13, 13);
+            this.lblRollsD12.Size = new System.Drawing.Size(40, 13);
             this.lblRollsD12.TabIndex = 14;
-            this.lblRollsD12.Text = "0";
+            this.lblRollsD12.Text = "Rolled:";
             // 
             // lblRollsD20
             // 
             this.lblRollsD20.AutoSize = true;
             this.lblRollsD20.Location = new System.Drawing.Point(221, 158);
             this.lblRollsD20.Name = "lblRollsD20";
-            this.lblRollsD20.Size = new System.Drawing.Size(13, 13);
+            this.lblRollsD20.Size = new System.Drawing.Size(40, 13);
             this.lblRollsD20.TabIndex = 15;
-            this.lblRollsD20.Text = "0";
+            this.lblRollsD20.Text = "Rolled:";
             // 
             // lblRollsD100
             // 
             this.lblRollsD100.AutoSize = true;
             this.lblRollsD100.Location = new System.Drawing.Point(221, 184);
             this.lblRollsD100.Name = "lblRollsD100";
-            this.lblRollsD100.Size = new System.Drawing.Size(13, 13);
+            this.lblRollsD100.Size = new System.Drawing.Size(40, 13);
             this.lblRollsD100.TabIndex = 16;
-            this.lblRollsD100.Text = "0";
+            this.lblRollsD100.Text = "Rolled:";
             // 
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(355, 9);
+            this.label18.Location = new System.Drawing.Point(471, 9);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(31, 13);
             this.label18.TabIndex = 2;
@@ -367,7 +368,7 @@
             // lblTotalsD4
             // 
             this.lblTotalsD4.AutoSize = true;
-            this.lblTotalsD4.Location = new System.Drawing.Point(364, 28);
+            this.lblTotalsD4.Location = new System.Drawing.Point(480, 28);
             this.lblTotalsD4.Name = "lblTotalsD4";
             this.lblTotalsD4.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD4.TabIndex = 3;
@@ -376,7 +377,7 @@
             // lblTotalsD6
             // 
             this.lblTotalsD6.AutoSize = true;
-            this.lblTotalsD6.Location = new System.Drawing.Point(364, 54);
+            this.lblTotalsD6.Location = new System.Drawing.Point(480, 54);
             this.lblTotalsD6.Name = "lblTotalsD6";
             this.lblTotalsD6.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD6.TabIndex = 11;
@@ -385,7 +386,7 @@
             // lblTotalsD8
             // 
             this.lblTotalsD8.AutoSize = true;
-            this.lblTotalsD8.Location = new System.Drawing.Point(364, 80);
+            this.lblTotalsD8.Location = new System.Drawing.Point(480, 80);
             this.lblTotalsD8.Name = "lblTotalsD8";
             this.lblTotalsD8.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD8.TabIndex = 12;
@@ -394,7 +395,7 @@
             // lblTotalsD10
             // 
             this.lblTotalsD10.AutoSize = true;
-            this.lblTotalsD10.Location = new System.Drawing.Point(364, 106);
+            this.lblTotalsD10.Location = new System.Drawing.Point(480, 106);
             this.lblTotalsD10.Name = "lblTotalsD10";
             this.lblTotalsD10.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD10.TabIndex = 13;
@@ -403,7 +404,7 @@
             // lblTotalsD12
             // 
             this.lblTotalsD12.AutoSize = true;
-            this.lblTotalsD12.Location = new System.Drawing.Point(364, 132);
+            this.lblTotalsD12.Location = new System.Drawing.Point(480, 132);
             this.lblTotalsD12.Name = "lblTotalsD12";
             this.lblTotalsD12.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD12.TabIndex = 14;
@@ -412,7 +413,7 @@
             // lblTotalsD20
             // 
             this.lblTotalsD20.AutoSize = true;
-            this.lblTotalsD20.Location = new System.Drawing.Point(364, 158);
+            this.lblTotalsD20.Location = new System.Drawing.Point(480, 158);
             this.lblTotalsD20.Name = "lblTotalsD20";
             this.lblTotalsD20.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD20.TabIndex = 15;
@@ -421,17 +422,28 @@
             // lblTotalsD100
             // 
             this.lblTotalsD100.AutoSize = true;
-            this.lblTotalsD100.Location = new System.Drawing.Point(364, 184);
+            this.lblTotalsD100.Location = new System.Drawing.Point(480, 184);
             this.lblTotalsD100.Name = "lblTotalsD100";
             this.lblTotalsD100.Size = new System.Drawing.Size(13, 13);
             this.lblTotalsD100.TabIndex = 16;
             this.lblTotalsD100.Text = "0";
             // 
+            // btnRest
+            // 
+            this.btnRest.Location = new System.Drawing.Point(28, 208);
+            this.btnRest.Name = "btnRest";
+            this.btnRest.Size = new System.Drawing.Size(180, 23);
+            this.btnRest.TabIndex = 18;
+            this.btnRest.Text = "Rest";
+            this.btnRest.UseVisualStyleBackColor = true;
+            this.btnRest.Click += new System.EventHandler(this.btnRest_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(398, 223);
+            this.ClientSize = new System.Drawing.Size(583, 243);
+            this.Controls.Add(this.btnRest);
             this.Controls.Add(this.btnRollD100);
             this.Controls.Add(this.btnRollD20);
             this.Controls.Add(this.btnRollD12);
@@ -472,7 +484,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Dice Roller";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -520,6 +532,7 @@
         private System.Windows.Forms.Label lblTotalsD12;
         private System.Windows.Forms.Label lblTotalsD20;
         private System.Windows.Forms.Label lblTotalsD100;
+        private System.Windows.Forms.Button btnRest;
     }
 }
 
